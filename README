@@ -1,0 +1,5 @@
+A simple web server with php installed.
+Will listen by default on ip 127.0.0.1 and port 80.
+
+Compile with the follow line
+csc /t:exe /out:webserver.exe webserver.cs runphp.cs
